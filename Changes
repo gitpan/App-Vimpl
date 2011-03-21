@@ -1,0 +1,15 @@
+Revision history for Vimpl
+
+0.01    2011/01/22
+        First version, hopefully this works.
+
+0.02    2011/01/24
+        Implemented search/install by vim script id #
+        Check and use existing .vimrc in init
+
+0.03    2011/03/21
+        Changed Namespace to App::Vimpl
+        Added ability to install from a provided Git repo
+        Cleaned up a little (ha!)
+
+
