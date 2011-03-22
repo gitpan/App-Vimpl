@@ -1,7 +1,7 @@
 --- #YAML:1.0
 name:               App-Vimpl
-version:            0.03
-abstract:           ~
+version:            0.04
+abstract:           Helps manage your vim plugins with Git
 author:
     - Colin Kennedy <moshen@cpan.org>
 license:            perl

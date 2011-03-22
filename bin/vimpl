@@ -575,15 +575,15 @@ pod2usage(1);
 
 =head1 NAME
 
-Vimpl - For managing your Vim scripts with Pathogen.vim and Git.
+App::Vimpl - Helps manage your vim plugins with Git
 
 =head1 VERSION
 
-Version 0.03
+Version 0.04
 
 =cut
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 
 =head1 SYNOPSIS

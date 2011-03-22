@@ -12,4 +12,6 @@ Revision history for Vimpl
         Added ability to install from a provided Git repo
         Cleaned up a little (ha!)
 
+0.04    2011/03/22
+        Fixes for CPAN upload
 
