@@ -6,8 +6,8 @@ use v5.10;
 WriteMakefile(
     NAME                => 'App::Vimpl',
     AUTHOR              => q{Colin Kennedy <moshen@cpan.org>},
-    VERSION_FROM        => 'bin/vimpl',
-    ABSTRACT_FROM       => 'bin/vimpl',
+    ABSTRACT            => 'Helps manage your vim plugins with Git',
+    VERSION_FROM        => 'lib/App/Vimpl.pm',
     ($ExtUtils::MakeMaker::VERSION >= 6.3002
       ? ('LICENSE'=> 'perl')
       : ()),

@@ -15,3 +15,7 @@ Revision history for Vimpl
 0.04    2011/03/22
         Fixes for CPAN upload
 
+0.05    2011/03/25
+        Separated functional interface from script into App/Vimpl.pm
+        Further expanded on docs
+
